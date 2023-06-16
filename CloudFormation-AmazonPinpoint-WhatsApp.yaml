@@ -14,10 +14,10 @@ Parameters:
     Default: 'Bearer EAA...'
   PhoneNumberId:
     Type: String
-    Default: 112593215076318
+    Default: 113510265094518
   VerifyToken:
     Type: String
-    Default: 123456
+    Default: EAATuwI6x8ewBAJyy5MWOWLkiTFMbL94ZCoQtB2yPrfqo3FYYpLYeMYV8LmI2ziDcsCLZBVpPZAq0TBmI7TTMndAbxFiM80C0eeQ15cUYOXfIGceZBXuLgziTkauPyGWmUDdxqBNmGCkuf7IGWtOyEuG6N1Ky0V2ZC8WNFi2f51OkdW4YrK2WF
   ApiGatewayName:
     Type: String
     Default: PinpointWhatsApp
